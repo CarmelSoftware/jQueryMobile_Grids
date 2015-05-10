@@ -3,9 +3,9 @@
 ####By Carmel Schvartzman
 
 This jQuery Mobile code is the companion for the following Tutorial:
- http://themvcclub.blogspot.com/2015/05/jquerymobile-app-using-navbars-for-android-and-blackberry.html
+ http://themvcclub.blogspot.com/2015/05/jquery-mobile-app-using-grids-for-Android-and-BlackBerry.html
 
-<a href="http://themvcclub.blogspot.com/2015/05/jquerymobile-app-using-navbars-for-android-and-blackberry.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
+<a href="http://themvcclub.blogspot.com/2015/05/jquery-mobile-app-using-grids-for-Android-and-BlackBerry.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 <img alt="jQueryMobile App using Navbars For Android and BlackBerry        " border="0" height="540" src="http://2.bp.blogspot.com/-cbCwQ2y-6X0/VUtZe7n3eeI/AAAAAAAAKjw/SP8Umvvo6n0/s540/2.png" width="358" />
 
