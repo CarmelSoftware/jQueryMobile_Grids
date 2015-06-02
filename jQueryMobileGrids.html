@@ -10,7 +10,7 @@
     <link href="style/Style.css" rel="stylesheet" />
 </head>
 <body>
-    <div data-role="page" id="page1">
+     <div data-role="page" id="page1">
         <div data-role="header" data-position="fixed">
             <h1>jQueryMobile</h1>
 
@@ -21,9 +21,22 @@
                     <li><a href="#" data-icon="lock" class="ui-shadow  ui-corner-all">lock</a></li>
                     <li><a href="#" data-icon="search" class="ui-shadow  ui-corner-all">Search</a></li>
                 </ul>
-                
-                
-                
             </div>
         </div>
->>>>>>>>> ADD HERE CODE
+        <div data-role="main" class="ui-content">
+            <h1>Grids</h1>
+            <p><b>This is a small App to exemplify Using Grids on jQueryMobile.</b></p>
+            <p>jQuery Mobile has a set of built-in CSS3 column layouts, meant to position buttons , navigation tabs, etc , as if it was in a table. </p>
+            <p>This is accomplished by using the <b>ui-grid-solo|a|b|c|d</b> classes for the parent div, and <b>ui-block-a|b|c|d|e</b> for the elements</p>
+
+
+
+            <div class="ui-grid-solo">
+                <h4>One-column Layout</h4>
+                <div class="ui-block-a">
+                    <a href="#message" data-rel="dialog" data-transition="pop"
+                        class="ui-btn ui-icon-grid ui-btn-icon-left  ui-shadow  ui-corner-all">Options</a>
+                </div>
+
+
+            </div>
